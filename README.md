@@ -7,7 +7,7 @@
     🎓 Recém formado em Ciência da computação na UFJ.
   </li>
   <li>
-    ⚡ Sou desenvolvedor júnior e possui e meu objetivo é aperfeiçoar minhas habilidades profissionais
+    ⚡ Desenvolvedor júnior com objetivo de aperfeiçoar minhas habilidades.
   </li>
   <li>
     🚀 Buscando aprender novas tecnologias e ferramentas.
