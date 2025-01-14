@@ -1,16 +1,16 @@
 # Olá me chamo Vitor,👋
-<h3> Este perfil é dedicado a publicar alguns trabalhos que venho realizando durante minha graduação é agora em meus estudos individuais</h3> 
+<h3> Este perfil é dedicado a publicar alguns trabalhos realizados durante minha graduação e agora em meus estudos individuais</h3> 
 
 <h2 align="center"><b2>Sobre mim 📌 </b2></h2>
 <ul>
   <li>
-    🎓 Recém formado em Ciencia da computação pela UFJ.
+    🎓 Recém formado em Ciência da computação na UFJ.
   </li>
   <li>
-    ⚡ Sou desenvolvedor júnior em busca de experiência profissional e aprimorar minhas habilidades.
+    ⚡ Sou desenvolvedor júnior e possui e meu objetivo é aperfeiçoar minhas habilidades profissionais
   </li>
   <li>
-    🚀 Buscando aprender novas técnologias e ferramentas.
+    🚀 Buscando aprender novas tecnologias e ferramentas.
   </li>
   <li>
     💡 Pretendo me tornar um Full-Stack experiente capaz de resolver qualquer problema.
