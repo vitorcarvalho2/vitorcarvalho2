@@ -25,7 +25,7 @@
 </ul>
 
 <h2 align="center"><b2>Tecnologias 📌 </b2></h2>
-<div style="display: flex; justify-content: center; flex-direction: column; padding: 0 16px;">
+<div align="center" style="display: flex; justify-content: center; flex-direction: column; padding: 0 16px;">
   <table style="width: 555px; border-collapse: collapse; border-radius: 20px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
     <tr>
       <td align="center" style="padding: 16px; border: 1px solid #ddd;">
@@ -127,8 +127,7 @@
     </tr>
   </table>
 <div>
-  <h2 style="text-align: center;"><b>Estatísticas 📊</b></h2>
-
+  <h2 align="center";"><b>Estatísticas 📊</b></h2>
   <div align="center">
     <img width="60%" style="max-width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcarvalho2&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" 
