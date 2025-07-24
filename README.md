@@ -1,5 +1,6 @@
 # Olá me chamo Vitor,👋
-<h3> Este perfil é dedicado a publicar alguns trabalhos realizados durante minha graduação e agora em meus estudos individuais</h3> 
+
+<h3> Este perfil é dedicado a publicar alguns trabalhos realizados durante minha graduação e agora em meus estudos individuais</h3>
 
 <h2 align="center"><b2>Sobre mim 📌 </b2></h2>
 <ul>
@@ -47,14 +48,6 @@
   </tr>
   <tr>
     <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /><br>
-      <span>FastAPI</span>
-    </td>
-    <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /><br>
-      <span>Figma</span>
-    </td>
-    <td align="center">
       <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><br>
       <span>Git</span>
     </td>
@@ -65,6 +58,14 @@
     <td align="center">
       <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><br>
       <span>HTML5</span>
+    </td>
+    <td align="center">
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /><br>
+      <span>VSCode</span>
+    </td>
+    <td align="center">
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /><br>
+      <span>Unity</span>
     </td>
   </tr>
   <tr>
@@ -77,10 +78,6 @@
       <span>JavaScript</span>
     </td>
     <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /><br>
-      <span>Jira</span>
-    </td>
-    <td align="center">
       <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" /><br>
       <span>MariaDB</span>
     </td>
@@ -88,16 +85,12 @@
       <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /><br>
       <span>MySQL</span>
     </td>
+    <td align="center">
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /><br>
+      <span>R</span>
+    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /><br>
-      <span>Notion</span>
-    </td>
-    <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /><br>
-      <span>NPM</span>
-    </td>
     <td align="center">
       <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /><br>
       <span>PostgreSQL</span>
@@ -110,20 +103,6 @@
       <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><br>
       <span>Python</span>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /><br>
-      <span>R</span>
-    </td>
-    <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><br>
-      <span>React</span>
-    </td>
-    <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" /><br>
-      <span>Slack</span>
-    </td>
     <td align="center">
       <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /><br>
       <span>Spring</span>
@@ -135,23 +114,29 @@
   </tr>
   <tr>
     <td></td>
+    <td></td>
     <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /><br>
-      <span>Unity</span>
+      <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><br>
+      <span>React</span>
     </td>
-    <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /><br>
-      <span>VSCode</span>
-    </td>
-    <td align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" /><br>
-      <span>Yarn</span>
-    </td>
+    <td></td>
     <td></td>
   </tr>
 </table>
 
-<h2 align="center"><b2>Estatisticas 📌 </b2></h2>
+<h2 align="center"><b2>Estatísticas 📌</b2></h2>
+
 <p align="center"> 
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcarvalho2&layout=compact&theme=dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcarvalho2&layout=compact&theme=dark" />
 </p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorcarvalho2&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/vitorcarvalho2/vitorcarvalho2/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+
