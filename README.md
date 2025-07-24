@@ -116,7 +116,7 @@
     <td></td>
     <td></td>
     <td align="center">
-      <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><br>
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><br>
       <span>React</span>
     </td>
     <td></td>
