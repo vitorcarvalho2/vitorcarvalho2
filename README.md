@@ -126,8 +126,8 @@
       <td style="padding: 16px; border: 1px solid #ddd;"></td>
     </tr>
   </table>
-<div>
-  <h2 align="center";"><b>Estatísticas 📊</b></h2>
+<div style="display: flex; flex-direction: column; gap: 16px;">
+  <h2 align="center"><b>Estatísticas 📊</b></h2>
   <div align="center">
     <img width="60%" style="max-width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcarvalho2&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" 
