@@ -8,16 +8,13 @@
 <h2 align="center"><b2>Sobre mim 📌 </b2></h2>
 <ul>
   <li>
-    🎓 Recém formado em Ciência da computação na UFJ.
+    🎓 Graduado em Ciência da computação pela Universidade Federal de Jataí (UFJ).
   </li>
   <li>
     ⚡ Desenvolvedor júnior com objetivo de aperfeiçoar minhas habilidades.
   </li>
   <li>
     🚀 Buscando aprender novas tecnologias e ferramentas.
-  </li>
-  <li>
-    💡 Pretendo me tornar um Full-Stack experiente capaz de resolver qualquer problema.
   </li>
   <li>
    🔌 No momento focado em <b>Django </b>, <b> Spring </b> e <b> React </b>.
