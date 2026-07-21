@@ -115,8 +115,8 @@
     <tr>
       <td style="padding: 16px; border: 1px solid #ddd;"></td>
       <td style="padding: 16px; border: 1px solid #ddd;">
-          <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><br>
-          <span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">N8N</span>    
+        <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/0c0fa558-eff4-4035-acf2-3f534a8833eb" /><br>
+        <span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">N8N</span>    
       </td>
       <td align="center" style="padding: 16px; border: 1px solid #ddd;">
         <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><br>
