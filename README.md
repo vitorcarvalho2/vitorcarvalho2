@@ -114,7 +114,7 @@
     </tr>
     <tr>
       <td style="padding: 16px; border: 1px solid #ddd;"></td>
-      <td style="padding: 16px; border: 1px solid #ddd;">
+      <td align="center" style="padding: 16px; border: 1px solid #ddd;">
         <img width="60" alt="image" src="https://github.com/user-attachments/assets/0c0fa558-eff4-4035-acf2-3f534a8833eb" /><br>
         <span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">N8N</span>    
       </td>
